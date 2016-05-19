@@ -1,0 +1,24 @@
+{
+  "name": "appmetrics-server",
+  "version": "1.0.0",
+  "description": "\"# appmetrics-server\"",
+  "main": "index.js",
+  "dependencies": {
+    "appmetrics": "*",
+    "express": "*",
+    "socket.io": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobespc/appmetrics-server.git"
+  },
+  "author": "Toby Corbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobespc/appmetrics-server/issues"
+  },
+  "homepage": "https://github.com/tobespc/appmetrics-server#readme"
+}
